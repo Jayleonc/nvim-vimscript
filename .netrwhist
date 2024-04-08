@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/'
+let g:netrw_dirhist_3='/usr'
+let g:netrw_dirhist_2='/Users/jayleonc'
+let g:netrw_dirhist_1='/usr/local/etc'
+let g:netrw_dirhist_0='/Volumes/[C] Windows/pluginwin20210401/api'
+let g:netrw_dirhist_9='/Users/jayleonc'
+let g:netrw_dirhist_8='/Users/jayleonc/.zinit'
+let g:netrw_dirhist_7='/Users/jayleonc/.bash_sessions'
+let g:netrw_dirhist_6='/Users/jayleonc'
+let g:netrw_dirhist_5='/home/kyle/.config/fcitx5/conf'
