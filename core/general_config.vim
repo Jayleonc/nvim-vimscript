@@ -174,6 +174,8 @@ endif
 "set redrawtime=1500  " Time in milliseconds for stopping display redraw
 
 " }}}
+"
+"nmap <silent> gd :<C-u>call CocActionAsync('jumpDefinition')<CR>
 
 " Searching {{{
 " ---------
